@@ -15,5 +15,8 @@ github:
 vscode:
 	brew install --cask visual-studio-code
 
+python:
+	brew install python3
+
 spotify:
 	brew install --cask spotify
