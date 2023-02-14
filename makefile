@@ -20,3 +20,6 @@ python:
 
 spotify:
 	brew install --cask spotify
+
+ansible:
+	brew install ansible
