@@ -23,3 +23,8 @@ spotify:
 
 ansible:
 	brew install ansible
+
+# Clean Homebrew
+pure:
+	brew autoremove
+	brew cleanup --prune=all
