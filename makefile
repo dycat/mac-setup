@@ -24,6 +24,9 @@ spotify:
 ansible:
 	brew install ansible
 
+fastlane:
+	brew install fastlane
+
 # Clean Homebrew
 pure:
 	brew autoremove
