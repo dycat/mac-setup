@@ -27,6 +27,9 @@ ansible:
 fastlane:
 	brew install fastlane
 
+circleci:
+	brew install circleci
+
 # Clean Homebrew
 pure:
 	brew autoremove
